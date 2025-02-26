@@ -1,4 +1,4 @@
-import EmployeeDashboard from './components/EmployeeDashboard'
+import EmployeeDashboard from './components/dashboard/EmployeeDashboard'
 import Login from './components/Login'
 
 function App() {
