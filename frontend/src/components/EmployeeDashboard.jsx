@@ -1,6 +1,6 @@
 function EmployeeDashboard(){
     return(
-        <div>Employee Dashboard</div>
+        <div className="text-blue-400">Employee Dashboard</div>
     )
 }
 
