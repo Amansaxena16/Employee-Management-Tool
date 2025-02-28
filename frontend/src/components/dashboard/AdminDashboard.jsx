@@ -7,7 +7,7 @@ function AdminDashboard() {
 
                 {/* creating tast form */}
 
-                <div class="flex justify-center items-center min-h-screen bg-gray-100 py-4">
+                <div class="flex justify-center items-center min-h-screen bg-gray-100 py-3">
                     <form class="bg-white shadow-lg rounded-lg p-6 w-96">
                         <h2 class="text-xl font-semibold text-gray-700 text-center mb-4">Create a Task</h2>
 
